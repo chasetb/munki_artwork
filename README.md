@@ -1,4 +1,4 @@
 munki_artwork
 =============
 
-Public repository for product artwork to be used with Munki2
+Repository for product artwork to be used with Munki2. I've also included my banner images I use.
